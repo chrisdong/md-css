@@ -34,11 +34,11 @@ pre code {
 }
 
 strong, b{
-  color: #3bb8af;
+  color: #00BFFF;
 }
 
 em, i {
-  color: #3bb8af;
+  color: #00BFFF;
 }
 
 hr {
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 22px 5px;
   padding: 0;
   font-style: bold !important;
-  color: #3bb8af !important;
+  color: #00BFFF !important;
   text-align: center !important;
   margin: 3.2em 22px 0 !important;
 }
@@ -146,6 +146,6 @@ table tr th, table tr td {
 table tr th {
   font-weight: bold;
   color: #eee;
-  border: 1px solid #3bb8af;
-  background-color: #3bb8af;
+  border: 1px solid #00BFFF;
+  background-color: #00BFFF;
 }
