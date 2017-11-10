@@ -68,7 +68,7 @@ ul li {
 
 
 blockquote, q {
-  border-left: 2px solid #3bb8af;
+  border-left: 2px solid #FFA500;
   color: #777;
   quotes: none;
   margin-left: 22px;
